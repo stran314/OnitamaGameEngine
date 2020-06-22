@@ -1,0 +1,17 @@
+#    Modification History:
+#    Start          End            Commits:
+#    06/13 22:00    06/14 01:39    Set up window and board image
+#    06/14 11:44    06/14 13:20    Render pawns and add Pawn class
+#    06/14 18:55    06/14 21:25    Place pawns to necessary locations
+#    06/14 22:20    06/15 04:14    Render cards and placed to necessary locations
+#    06/15 23:45    06/16 02:33    Implement Basic Button Commands for Cards according to which side you're on
+#    06/16 18:48    06/16 20:34    Add legal move coord. and Move Class
+#    06/17 14:55    06/17 18:08    Implement Mouse Position and valid commands for it
+#    06/17 20:49    06/17 23:13    Implement visual aid for current pawn selected
+#    06/18 15.41    06/18 19:11    Fix Legal Card Moves and bugs inside click_board definition
+#    06/18 23:29    06/19 00:27    Created Basic Forward Move for Red Side using update_board() function
+#    06/19 15:40    06/19 19:05    Add valid move functions that would highlight when a pawn is clicked
+#    06/19 20:24    06/19 22:24    Fix bugs in ShowValidMove() method and corrected Legal card coordinates
+#    06/19 22:24    06/19 01:14    Activated Turn-Based mechanics, Fix Blue Side UI and Visuals, and added card rotation
+#    06/20 21:00    06/20 22:27    Add Win Conditions and Start Button
+#    06/21 21:27    06/21 23:15    Fix bugs and update syntax
