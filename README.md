@@ -7,4 +7,5 @@ A player wins under two conditions:
 2. THE WAY OF THE STREAM: If any pawn lands on their enemy's shrine
 
 This program requires all files and assets in order to function correctly.
+
 Download "Onitama Game.exe" for easy installation and run the executable to run the game.
