@@ -9,3 +9,5 @@ A player wins under two conditions:
 This program requires all files and assets in order to function correctly.
 
 Download "Onitama Game.exe" for easy installation and run the executable to run the game.
+
+Next Version, I plan to add a feature where players can go against a computer.
