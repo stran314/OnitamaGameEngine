@@ -12,4 +12,5 @@ Download "Onitama Game.exe" for easy installation and run the executable to run 
 
 Next Version, I plan to add a feature where players can go against a computer.
 
+## Game Demo:
 ![](images/OnitamaGamePlay.gif)
